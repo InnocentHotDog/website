@@ -30,7 +30,7 @@ Compared to the conventional min-max problems, BLO offers us a unified hierarchi
 
 > How to build theoretically-grounded BLO framework for ML problems with light computational complexity?
 
-My work \[[2](#refer-anchor-2)\] proposed the first scalable BLO algorithm for robust training and my work \[[4](#refer-anchor-4)\ also proposed a purely first-order BLO algorithm for model pruning, which achieves the best performance with much higher efficiency compared to the state-of-the-art baseline. 
+My work \[[2](#refer-anchor-2)\] proposed the first scalable BLO algorithm for robust training and my work \[[4](#refer-anchor-4)\] also proposed a purely first-order BLO algorithm for model pruning, which achieves the best performance with much higher efficiency compared to the state-of-the-art baseline. 
 
 
 #### Trustworthy AI: Robustness, Fairness, and Explanability
@@ -43,7 +43,7 @@ As researchers realize that solely high accuracy is not enough to make AI system
 
 * Explanability: Trojan attack has also arisen as a real-world threaten to various ML systems. My work \[[3](#refer-anchor-3)\] reveals why the backdoor works from the perspective of model compression and further proposes an effective data-free backdoor detection method.
 
-{% include figure.html path="assets/img/research.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.html path="assets/img/bip.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
   Bi-level optimization advances the algorithmic foundation of model pruning.
 </div>
