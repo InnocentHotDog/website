@@ -94,7 +94,7 @@ nav_order: 7
   {% include figure.html path="assets/photos/miscellaneous/1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
 
   <div class="caption">
-    I wrote an algorithm that converts real-life images to a image only made ouf of "string threads" with C++ and OpenCV, when I was an undergraduate student. This was the most successful example from the photo of my pal Ziqi Gao (HKUST).
+    When I was an undergraduate student, I wrote an algorithm with C++ and OpenCV that converts real-life images to an image only made of "string threads". It did not work everytime, but this was the most successful example from the photo of my pal Ziqi Gao (HKUST).
   </div>
 
   <h2 class="category">Life at RWTH</h2>
