@@ -7,8 +7,8 @@ dropdown: true
 children: 
     - title: posts
       permalink: /blog/
-    - title: /repositories/
-      permalink: repositories
+    - title: repositories
+      permalink: /repositories/
     - title: projects
       permalink: /projects/
     - title: photos
