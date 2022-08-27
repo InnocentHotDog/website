@@ -15,7 +15,7 @@ nav_order: 7
           {% include figure.html path="assets/img/news/uai22/1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
       </div>
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html path="assets/img/news/uai22/1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+          {% include figure.html path="assets/img/news/uai22/2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
       </div>
   </div>
   {% include figure.html path="assets/img/news/uai22/3.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -86,7 +86,76 @@ nav_order: 7
           {% include figure.html path="assets/photos/CVPR22/5.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
       </div>
   </div>
-  <h2 class="category">CVPR 2022</h2>
+  <h2 class="category">Life at RWTH</h2>
+  <div class="row mt-3">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/photos/LifeAtRWTH/0.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/photos/LifeAtRWTH/1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/photos/LifeAtRWTH/2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+  </div>
 
+  <div class="row mt-3">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/photos/LifeAtRWTH/3.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/photos/LifeAtRWTH/4.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/photos/LifeAtRWTH/5.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+  </div>
+  
+  <div class="row mt-3">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/photos/LifeAtRWTH/6.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/photos/LifeAtRWTH/7.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/photos/LifeAtRWTH/8.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+  </div>
+
+  <div class="row mt-3">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/photos/LifeAtRWTH/9.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/photos/LifeAtRWTH/10.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+  </div>
+
+  <h2 class="category">My Dog WuLa!</h2>
+
+  <div class="row mt-3">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/photos/WuLa/0.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/photos/WuLa/3.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/photos/WuLa/4.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+  </div>
+
+  <div class="row mt-3">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/photos/WuLa/1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/photos/WuLa/8.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/photos/WuLa/9.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+  </div>
 </div>
 
