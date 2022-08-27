@@ -33,9 +33,9 @@
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
 
-"Liu"
-  - firstname: ["Sijia"]
-    url: https://lsjxjty.github.io
+# "Liu"
+#   - firstname: ["Sijia"]
+#     url: https://lsjxjty.github.io
 
 # "Chang"
 #   - firstname: ["Shiyu"]
