@@ -1,13 +1,11 @@
 ---
 layout: page
-title: research
+title: Research Statement
 permalink: /research/
-description: My research palace.
+description:
 nav: true
 nav_order: 2
 ---
-
-# Research Statement
 
 As artificial intelligence (AI) systems move from the laboratory into the real world, a paramount requirement is to develop algorithms that are robust, fair, and interpretable prior to deployment. Moreover, only scalable ML algorithms can better apply to the increasingly complex datasets, models, and tasks. Thus, my research focuses on the **trustworthy** and **scalable** ML algorithms. In general my research scope spans the areas of machine learning (ML)/deep learning (DL), optimization theory, computer vision, and security. These research topics provide a solid foundation for my current and future research: *Making AI system safe and scalable.* My research on these two goals are intervened and can be summarized as the following two perspectives:
 
