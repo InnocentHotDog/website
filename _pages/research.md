@@ -18,7 +18,7 @@ As artificial intelligence (AI) systems move from the laboratory into the real w
 {% include figure.html path="assets/img/research.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 
   <div class="caption">
-    An overview of my current research and future research agenda.
+    An overview of my research.
   </div>
 
   ## Scalable Bi-level Optimization: Theory and Application
