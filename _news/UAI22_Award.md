@@ -1,6 +1,6 @@
 ---
 layout: post
-title: :tada: Best Paper Runner-Up Award of UAI’22
+title: Best Paper Runner-Up Award of UAI’22
 date: 2022-07-26 16:11:00-0400
 inline: false
 ---
