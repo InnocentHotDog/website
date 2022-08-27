@@ -1,11 +1,13 @@
 ---
-layout: page
-title: Research Statement
+layout: research
+title: research
 permalink: /research/
 description:
 nav: true
 nav_order: 2
 ---
+
+# Research Statement
 
 As artificial intelligence (AI) systems move from the laboratory into the real world, a paramount requirement is to develop algorithms that are robust, fair, and interpretable prior to deployment. Moreover, only scalable ML algorithms can better apply to the increasingly complex datasets, models, and tasks. Thus, my research focuses on the **trustworthy** and **scalable** ML algorithms. In general my research scope spans the areas of machine learning (ML)/deep learning (DL), optimization theory, computer vision, and security. These research topics provide a solid foundation for my current and future research: *Making AI system safe and scalable.* My research on these two goals are intervened and can be summarized as the following two perspectives:
 
@@ -32,7 +34,7 @@ Compared to the conventional min-max problems, BLO offers us a unified hierarchi
 My work \[[2](#refer-anchor-2)\] proposed the first scalable BLO algorithm for robust training and my work \[[4](#refer-anchor-4)\ also proposed a purely first-order BLO algorithm for model pruning, which achieves the best performance with much higher efficiency compared to the state-of-the-art baseline. 
 
 
-## Trustworthy AI: Robustness, Fairness, and Explanability
+### Trustworthy AI: Robustness, Fairness, and Explanability
 
 As researchers realize that solely high accuracy is not enough to make AI systems safe, responsible and worthy of the trust, the urge to build a *robust, fair, explainable* AI system has been described by some experts as the biggest challenges of the next 5 years \[[9](#refer-anchor-9)\]. Thus, a large part of my work is dedicated to promote the robustness, fairness, and transparency of the AI system.
 
@@ -42,22 +44,22 @@ As researchers realize that solely high accuracy is not enough to make AI system
 
 * Explanability: Trojan attack has also arisen as a real-world threaten to various ML systems. My work \[[3](#refer-anchor-3)\] reveals why the backdoor works from the perspective of model compression and further proposes an effective data-free backdoor detection method.
 
-## Sparse Learning for Model Compression
+### Sparse Learning for Model Compression
 
 Model sparsity has seen a lot of research interests these years, as reducing model size by removing redundant parameters has been known to benefit model generalization, adversarial robustness, out-of-distribution generalization, and transfer learning. My work \[[4](#refer-anchor-4)\] reformulated the model pruning problem as a bi-level optimization problem, and proposed a theoretically-grounded algorithm, which achieves the new state-of-the-art performance and provides a whole new perspective for model pruning to the community. Sparsity can also help interpret backdoor attacks, as my work \[[3](#refer-anchor-3)\] reveals that model pruning is more likely to remove the benign features compared to the backdoor features. Accordingly, I designed a clean data-free backdoor detection method leveraging model sparsity.
 
 ---
 
-## Reference
+### Reference
 
 <div id="refer-anchor-1"></div> [1] G. Zhang\*, S. Lu\*, <b>Y. Zhang</b>, X. Chen, P. Chen, Q. Fan, L. Martie, M. Hong, S. Liu, “Distributed Adversarial Training to Robustify Deep Neural Networks at Scale”, Conference on Uncertainty in Artificial Intelligence (UAI’22 - Best Paper Runner-up Award )
 
 <div id="refer-anchor-2"></div> [2] <b>Y. Zhang</b>*, G. Zhang*, P. Khanduri, M. Hong, S. Chang, S. Liu, “Fast-BAT: Revisiting and Advancing Fast Adversarial Training through the Lens of Bi-level Optimization”, International Conference on Machine Learning (ICML’22 )
 
-<div id="refer-anchor-3"></div> [3] T. Chen*, Z. Zhang*, <b>Y. Zhang</b>*, Chang, S. Liu, W. Yang, “Quarantine: Sparsity Can Uncover the Trojan Attack Trigger for Free”, Computer Vision and Pattern Recognition Conference (CVPR’22 )
-<div id="refer-anchor-4"></div> [4] <b>Y. Zhang</b>*, Y. Yao*, P. Ram, P. Zhao, T. Chen, M. Hong, Y. Wang, S. Liu, “Advancing Model Pruning via Bi-level Optimization” (under review)
+<div id="refer-anchor-3"></div> [3] T. Chen\*, Z. Zhang\*, <b>Y. Zhang</b>\*, Chang, S. Liu, W. Yang, “Quarantine: Sparsity Can Uncover the Trojan Attack Trigger for Free”, Computer Vision and Pattern Recognition Conference (CVPR’22 )
+<div id="refer-anchor-4"></div> [4] <b>Y. Zhang</b>\*, Y. Yao\*, P. Ram, P. Zhao, T. Chen, M. Hong, Y. Wang, S. Liu, “Advancing Model Pruning via Bi-level Optimization” (under review)
 
-<div id="refer-anchor-5"></div> [5]G. Zhang*, Y. Zhang*, Z. Zhang, W. Fan, Q. Li, S. Liu, S. Chang, “Fairness Reprogramming” (under review)
+<div id="refer-anchor-5"></div> [5]G. Zhang\*, Y. Zhang\*, Z. Zhang, W. Fan, Q. Li, S. Liu, S. Chang, “Fairness Reprogramming” (under review)
 
 <div id="refer-anchor-6"></div> [6 B. Hou, J. Jia, <b>Y. Zhang</b>, G. Zhang, Y. Zhang, S. Liu, S. Chang, "TextGrad: Advancing Robustness Evaluation in NLP by Gradient-Driven Optimization" (under review)
 
