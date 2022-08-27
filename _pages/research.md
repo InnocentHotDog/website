@@ -16,10 +16,9 @@ As artificial intelligence (AI) systems move from the laboratory into the real w
 :heavy_check_mark: **Application perspective**: This line of research tackles the domain-specific challenges to achieve scalable and trustworthy AI, e.g., robustness enhancement, fairness promotion, data privacy protection, and model compression.
 
 {% include figure.html path="assets/img/research.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-
-  <div class="caption">
-    An overview of my research.
-  </div>
+<div class="caption">
+  An overview of my research.
+</div>
 
 ## Scalable Bi-level Optimization: Theory and Application
 
@@ -34,7 +33,7 @@ Compared to the conventional min-max problems, BLO offers us a unified hierarchi
 My work \[[2](#refer-anchor-2)\] proposed the first scalable BLO algorithm for robust training and my work \[[4](#refer-anchor-4)\ also proposed a purely first-order BLO algorithm for model pruning, which achieves the best performance with much higher efficiency compared to the state-of-the-art baseline. 
 
 
-### Trustworthy AI: Robustness, Fairness, and Explanability
+#### Trustworthy AI: Robustness, Fairness, and Explanability
 
 As researchers realize that solely high accuracy is not enough to make AI systems safe, responsible and worthy of the trust, the urge to build a *robust, fair, explainable* AI system has been described by some experts as the biggest challenges of the next 5 years \[[9](#refer-anchor-9)\]. Thus, a large part of my work is dedicated to promote the robustness, fairness, and transparency of the AI system.
 
@@ -44,13 +43,18 @@ As researchers realize that solely high accuracy is not enough to make AI system
 
 * Explanability: Trojan attack has also arisen as a real-world threaten to various ML systems. My work \[[3](#refer-anchor-3)\] reveals why the backdoor works from the perspective of model compression and further proposes an effective data-free backdoor detection method.
 
-### Sparse Learning for Model Compression
+#### Sparse Learning for Model Compression
+
+{% include figure.html path="assets/img/research.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+<div class="caption">
+  Bi-level optimization advances the algorithmic foundation of model pruning.
+</div>
 
 Model sparsity has seen a lot of research interests these years, as reducing model size by removing redundant parameters has been known to benefit model generalization, adversarial robustness, out-of-distribution generalization, and transfer learning. My work \[[4](#refer-anchor-4)\] reformulated the model pruning problem as a bi-level optimization problem, and proposed a theoretically-grounded algorithm, which achieves the new state-of-the-art performance and provides a whole new perspective for model pruning to the community. Sparsity can also help interpret backdoor attacks, as my work \[[3](#refer-anchor-3)\] reveals that model pruning is more likely to remove the benign features compared to the backdoor features. Accordingly, I designed a clean data-free backdoor detection method leveraging model sparsity.
 
 ---
 
-### Reference
+#### Reference
 
 <div id="refer-anchor-1"></div> [1] G. Zhang\*, S. Lu\*, <b>Y. Zhang</b>, X. Chen, P. Chen, Q. Fan, L. Martie, M. Hong, S. Liu, “Distributed Adversarial Training to Robustify Deep Neural Networks at Scale”, Conference on Uncertainty in Artificial Intelligence (UAI’22 - Best Paper Runner-up Award )
 
