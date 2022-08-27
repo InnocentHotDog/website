@@ -9,17 +9,20 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room 3210 </p>
+    <p>428 S Shaw LN</p>
+    <p>East Lansing, Michigan, 48910</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I am Yihua Zhang (张逸骅), a first-year Ph.D. student from [OPTML Group](https://www.optml-group.com/) at Michigan State University, supervised by [Prof. Sijia Liu](https://lsjxjtu.github.io/). My research focuses on the *trustworthy* and *scalable ML* algorithms. In general, my research spans the areas of machine learning (ML)/deep learning (DL), optimization theory, computer vision, and security. These research topics provide a solid foundation for my current and future research: Making AI system **safe** and **scalable**. My research on these two goals are intervened and can be summarized as the following two
+perspectives:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+:heavy_check_mark: *Algorithmic perspective*: This line of research designs the scalable and theoretically-grounded machine learning algorithms subject to real-life constraints, e.g., computation/communication overhead, robustness, fairness, and interpretability.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+:heavy_check_mark: *Application perspective*: This line of research tackles the domain-specific challenges to achieve scalable and trustworthy AI, e.g., robustness enhancement, fairness promotion, data privacy protection, and model compression.
+
+
