@@ -48,6 +48,10 @@ As artificial intelligence (AI) systems move from the laboratory into the real w
 
   Model sparsity has seen a lot of research interests these years, as reducing model size by removing redundant parameters has been known to benefit model generalization, adversarial robustness, out-of-distribution generalization, and transfer learning. My work \[[4](#refer-anchor-4)\] reformulated the model pruning problem as a bi-level optimization problem, and proposed a theoretically-grounded algorithm, which achieves the new state-of-the-art performance and provides a whole new perspective for model pruning to the community. Sparsity can also help interpret backdoor attacks, as my work \[[3](#refer-anchor-3)\] reveals that model pruning is more likely to remove the benign features compared to the backdoor features. Accordingly, I designed a clean data-free backdoor detection method leveraging model sparsity.
 
+  ---
+
+  ## Reference
+
   <div id="refer-anchor-1"></div> [1] G. Zhang*, S. Lu*, <b>Y. Zhang</b>, X. Chen, P. Chen, Q. Fan, L. Martie, M. Hong, S. Liu, “Distributed Adversarial Training to Robustify Deep Neural Networks at Scale”, Conference on Uncertainty in Artificial Intelligence (UAI’22 - Best Paper Runner-up Award )
 
   <div id="refer-anchor-2"></div> [2] <b>Y. Zhang</b>*, G. Zhang*, P. Khanduri, M. Hong, S. Chang, S. Liu, “Fast-BAT: Revisiting and Advancing Fast Adversarial Training through the Lens of Bi-level Optimization”, International Conference on Machine Learning (ICML’22 )
