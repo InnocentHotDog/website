@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: vanishing_me.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>Room 3210 </p>
     <p>428 S Shaw LN</p>
