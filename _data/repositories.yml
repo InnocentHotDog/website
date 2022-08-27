@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - normaluhr
+  - optml-group
+  - VITA-Group
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - OPTML-Group/fast_bat
+  - VITA-Group/Backdoor-LTH

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: A long announcement with details
+title: Best Paper Runner-Up Award of UAI’22
 date: 2022-07-26 16:11:00-0400
 inline: false
 ---
 
-Grateful to receive the Best Paper Runner-Up Award at UAI’22 in recognition of our work <a href="https://arxiv.org/pdf/2206.06257.pdf">Distributed Adversarial Training to Robustify Deep Neural Networks at Scale</a>.
+:tada: Grateful to receive the Best Paper Runner-Up Award in UAI’22 in recognition of our work <a href="https://arxiv.org/pdf/2206.06257.pdf">Distributed Adversarial Training to Robustify Deep Neural Networks at Scale</a>.
 
 ***
 
