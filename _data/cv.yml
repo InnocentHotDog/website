@@ -1,9 +1,9 @@
 - title: General Information
   type: map
   contents:
-    - name: Yihua Zhang
+    - name: Full Name
       value: Yihua Zhang
-    - name: July. 9th, 1997
+    - name: Date of Birth
       value: 9th July 1997
     - name: Languages
       value: Chinese, English, German
@@ -44,7 +44,7 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">Fast-BAT</a>
+    - title: <a href="https://github.com/NormalUhr/Fast_BAT">Fast-BAT</a>
       year: 2015-now
       description: A fast bi-level optimization-based adversarial training framework.
 
@@ -86,4 +86,5 @@
 - title: Talk
   type: list
   contents:
-    - "Advancing Algorithmic Foundation of Robust Deep Learning through the Lens of Bi-level Optimization" at INFORMS Annual Meeting 2022
+    - Advancing Algorithmic Foundation of Robust Deep Learning through the Lens of Bi-level Optimization at INFORMS Annual Meeting 2022
+
