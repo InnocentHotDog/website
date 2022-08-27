@@ -86,6 +86,21 @@ nav_order: 7
           {% include figure.html path="assets/photos/CVPR22/5.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
       </div>
   </div>
+
+  <h2 class="category">miscellaneuous</h2>
+
+  {% include figure.html path="assets/photos/miscellaneuous/0.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
+  <div class="caption">
+    I was doing an internship and designing algorithms reverse engineering the 3D model of the object with point clouds. The scanning was a debug test and my face looks like snapped by Thanos.
+  </div>
+
+  {% include figure.html path="assets/photos/miscellaneuous/1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
+  <div class="caption">
+    I wrote an algorithm that converts real-life images to a image only made ouf of "string threads" with C++ and OpenCV, when I was an undergraduate student. This was the most successful example from the photo of my pal Ziqi Gao (HKUST).
+  </div>
+
   <h2 class="category">Life at RWTH</h2>
   <div class="row mt-3">
       <div class="col-sm mt-3 mt-md-0">
@@ -157,5 +172,19 @@ nav_order: 7
           {% include figure.html path="assets/photos/WuLa/9.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
       </div>
   </div>
+
+  <div class="row mt-3">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/photos/WuLa/2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/photos/WuLa/10.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/photos/WuLa/11.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+  </div>
+
+
 </div>
 
