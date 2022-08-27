@@ -11,7 +11,9 @@ profile:
   address: >
     <p>Room 3210 </p>
     <p>428 S Shaw LN</p>
-    <p>East Lansing, Michigan, 48910</p>
+    <p></p>
+    <p></p>
+    <p></p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
