@@ -10,14 +10,7 @@ nav_order: 7
 <div class="projects">
   <h2 class="category">UAI 2022</h2>
 
-  <div class="row mt-3">
-      <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html path="assets/img/news/uai22/1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
-      </div>
-      <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html path="assets/img/news/uai22/2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
-      </div>
-  </div>
+  {% include figure.html path="assets/img/news/uai22/1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
   {% include figure.html path="assets/img/news/uai22/3.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
   <div class="row mt-3">
       <div class="col-sm mt-3 mt-md-0">
@@ -25,6 +18,9 @@ nav_order: 7
       </div>
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.html path="assets/img/news/uai22/5.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/img/news/uai22/2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
       </div>
   </div>
 
@@ -89,13 +85,13 @@ nav_order: 7
 
   <h2 class="category">miscellaneuous</h2>
 
-  {% include figure.html path="assets/photos/miscellaneuous/0.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  {% include figure.html path="assets/photos/miscellaneous/0.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
 
   <div class="caption">
     I was doing an internship and designing algorithms reverse engineering the 3D model of the object with point clouds. The scanning was a debug test and my face looks like snapped by Thanos.
   </div>
 
-  {% include figure.html path="assets/photos/miscellaneuous/1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  {% include figure.html path="assets/photos/miscellaneous/1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
 
   <div class="caption">
     I wrote an algorithm that converts real-life images to a image only made ouf of "string threads" with C++ and OpenCV, when I was an undergraduate student. This was the most successful example from the photo of my pal Ziqi Gao (HKUST).
