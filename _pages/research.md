@@ -50,7 +50,7 @@ Model sparsity has seen a lot of research interests these years, as reducing mod
 
 ## Reference
 
-<div id="refer-anchor-1"></div> [1] G. Zhang*, S. Lu*, <b>Y. Zhang</b>, X. Chen, P. Chen, Q. Fan, L. Martie, M. Hong, S. Liu, “Distributed Adversarial Training to Robustify Deep Neural Networks at Scale”, Conference on Uncertainty in Artificial Intelligence (UAI’22 - Best Paper Runner-up Award )
+<div id="refer-anchor-1"></div> [1] G. Zhang\*, S. Lu\*, <b>Y. Zhang</b>, X. Chen, P. Chen, Q. Fan, L. Martie, M. Hong, S. Liu, “Distributed Adversarial Training to Robustify Deep Neural Networks at Scale”, Conference on Uncertainty in Artificial Intelligence (UAI’22 - Best Paper Runner-up Award )
 
 <div id="refer-anchor-2"></div> [2] <b>Y. Zhang</b>*, G. Zhang*, P. Khanduri, M. Hong, S. Chang, S. Liu, “Fast-BAT: Revisiting and Advancing Fast Adversarial Training through the Lens of Bi-level Optimization”, International Conference on Machine Learning (ICML’22 )
 
