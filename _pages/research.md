@@ -43,7 +43,7 @@ As researchers realize that solely high accuracy is not enough to make AI system
 
 * Explanability: Trojan attack has also arisen as a real-world threaten to various ML systems. My work \[[3](#refer-anchor-3)\] reveals why the backdoor works from the perspective of model compression and further proposes an effective data-free backdoor detection method.
 
-{% include figure.html path="assets/img/bip.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.html path="assets/img/bip.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
   Bi-level optimization advances the algorithmic foundation of model pruning.
 </div>
