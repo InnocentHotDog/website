@@ -2,11 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: You do not see my works. You see my life.
+description: Bricks of my research palace.
 nav: false
 nav_order: 2
-display_categories: [work, fun]
-horizontal: true
+display_categories: [Trustworthy ML, Scalable ML]
+horizontal: False
 ---
 
 <!-- pages/projects.md -->
