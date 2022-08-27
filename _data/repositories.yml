@@ -1,8 +1,6 @@
 github_users:
   - normaluhr
-  - optml-group
-  - VITA-Group
 
 github_repos:
-  - OPTML-Group/fast_bat
+  - OPTML-Group/Fast-BAT
   - VITA-Group/Backdoor-LTH
