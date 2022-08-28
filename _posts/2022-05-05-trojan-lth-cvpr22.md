@@ -2,7 +2,8 @@
 layout: paper
 title:  "[CVPR22] Quarantine: Sparsity Can Uncover the Trojan Attack Trigger for Free"
 date: 2022-06-21 21:00:00
-description: "Tianlong Chen*, Zhenyu Zhang*, Yihua Zhang*, Shiyu Chang, Sijia Liu, Zhangyang Wang"
+author: "Tianlong Chen*<sup>[1]</sup>, Zhenyu Zhang*<sup>[1]</sup>, Yihua Zhang*<sup>[2]</sup>, Shiyu Chang<sup>[3]</sup>, Sijia Liu<sup>[2,4]</sup>, Zhangyang Wang<sup>[1]</sup>"
+affiliation: "<sup>[1]</sup>University of Texas at Austin, <sup>[2]</sup>Michigan State University, <sup>[3]</sup>University of California, Santa Barbara, <sup>[4]</sup>MIT-IBM Watson AI Lab"
 code: "https://github.com/VITA-Group/Backdoor-LTH"
 poster: "https://drive.google.com/file/d/1VnnC06NBoRCfSjw2RT91dKCeZ8iDEXCY/view?usp=sharing"
 paper: "https://www.google.com"
