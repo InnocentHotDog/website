@@ -8,3 +8,5 @@ categories: sample-posts
 ---
 
 <a href="https://github.com/VITA-Group/Backdoor-LTH" class="btn btn-sm z-depth-0" role="button">CODE</a>
+
+<button type="button" class="btn btn-primary" href="https://github.com/VITA-Group/Backdoor-LTH">CODE</button>
